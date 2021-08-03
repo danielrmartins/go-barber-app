@@ -48,7 +48,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ cd go-barber-app
 
     # Instalar as dependências
-    $ yarn install
+    $ yarn 
 
     # Iniciar o projeto
     $ yarn
