@@ -27,7 +27,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - [React Native Community](https://github.com/react-native-community)
 - [React Native](https://reactnative.dev/)
-- [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/)
+- [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
 - [React Native Safe Area Context](https://github.com/th3rdwave/react-native-safe-area-context)
 - [Axios](https://github.com/axios/axios)
 - [Unform](https://unform.dev/)
