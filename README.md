@@ -2,7 +2,7 @@
   GoBarber versão App
 </h3>
 
-# Indice
+# Índice
 
 - [Sobre](#-sobre)
 - [Layout do Projeto](#-layout)
