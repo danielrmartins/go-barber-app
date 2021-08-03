@@ -8,6 +8,7 @@
 - [Layout do Projeto](#-layout)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
+- [Como rodar/emular o projeto](#-como-rodar/emular-o-projeto)
 
 ## 🔖&nbsp; Sobre
 
@@ -49,11 +50,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
     # Instalar as dependências
     $ yarn 
-
-    # Iniciar o projeto
-    $ yarn
 ```
 
+## Como rodar/emular o projeto
+-[Link da Documentação](https://react-native.rocketseat.dev/)
 ---
 
 Desenvolvido 💜 por Daniel Martins
