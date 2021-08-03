@@ -52,8 +52,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
     $ yarn 
 ```
 
-## Como rodar/emular o projeto
--[Link da Documentação](https://react-native.rocketseat.dev/)
+---
+
+## 📱 Como rodar/emular o projeto
+- [Link da Documentação](https://react-native.rocketseat.dev/)
 ---
 
 Desenvolvido 💜 por Daniel Martins
